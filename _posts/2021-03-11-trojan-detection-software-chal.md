@@ -1,7 +1,7 @@
 ---
-title: Trojan Detection Software Challenge - Round 3 Holdout Dataset
-created: '2021-03-11T17:23:50.844681'
-modified: '2021-03-11T17:23:50.844693'
+title: Trojan Detection Software Challenge - Round 3 Test Dataset
+created: '2021-03-11T17:23:49.984614'
+modified: '2021-03-11T17:23:49.984621'
 state: active
 type: dataset
 tags:
@@ -10,7 +10,7 @@ tags:
     Machine Learning
 groups: []
 csv_url: >-
-  https://data.nist.gov/od/ds/ark:/88434/mds2-2342/round3-holdout-dataset/METADATA_DICTIONARY.csv
+  https://data.nist.gov/od/ds/ark:/88434/mds2-2341/round3-test-dataset/METADATA_DICTIONARY.csv
 json_url: ''
 layout: post
 
