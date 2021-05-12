@@ -1,7 +1,7 @@
 ---
-title: Trojan Detection Software Challenge - Round 4 Holdout Dataset
-created: '2021-03-11T17:24:12.626419'
-modified: '2021-04-09T14:51:19.071321'
+title: Trojan Detection Software Challenge - Round 4 Train Dataset
+created: '2021-03-11T17:23:53.803005'
+modified: '2021-03-11T17:23:53.803012'
 state: active
 type: dataset
 tags:
@@ -10,9 +10,9 @@ tags:
     Machine Learning
 groups: []
 csv_url: >-
-  https://data.nist.gov/od/ds/ark:/88434/mds2-2372/round4-holdout-dataset/METADATA_DICTIONARY.csv
+  https://data.nist.gov/od/ds/ark:/88434/mds2-2345/round4-train-dataset/METADATA_DICTIONARY.csv
 json_url: ''
 layout: post
 
 ---
-The data being generated and disseminated is the holdout data used to construct trojan detection software solutions. This data, generated at NIST, consists of human level AIs trained to perform image classification. A known percentage of these trained AI models have been poisoned with a known trigger which induces incorrect behavior. This data will be used to develop software solutions for detecting which trained AI models have been poisoned via embedded triggers. This dataset consists of 288 adversarially trained, human level, image classification AI models using a variety of model architectures. The models were trained on synthetically created image data of non-real traffic signs superimposed on road background scenes. Half (50%) of the models have been poisoned with an embedded trigger which causes misclassification of the images when the trigger is present.
+The data being generated and disseminated is the training data used to construct trojan detection software solutions. This data, generated at NIST, consists of human level AIs trained to perform image classification. A known percentage of these trained AI models have been poisoned with a known trigger which induces incorrect behavior. This data will be used to develop software solutions for detecting which trained AI models have been poisoned via embedded triggers. This dataset consists of 1008 adversarially trained, human level, image classification AI models using a variety of model architectures. The models were trained on synthetically created image data of non-real traffic signs superimposed on road background scenes. Half (50%) of the models have been poisoned with an embedded trigger which causes misclassification of the images when the trigger is present.
