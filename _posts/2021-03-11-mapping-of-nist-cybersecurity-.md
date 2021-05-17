@@ -1,26 +1,24 @@
 ---
-title: >-
-  Mapping of NIST Cybersecurity Framework Subcategories to Threat Scenarios from
-  the National Electric Sector Cybersecurity Organization Resource (NESCOR)
-  Electric Sector Failure Scenarios and Impact Analyses - Version 3.0
-created: '2021-03-11T17:23:48.159263'
-modified: '2021-03-11T17:23:48.159270'
+title: Mapping of NIST Cybersecurity Framework v1.1 to NERC CIP Reliability Standards
+created: '2021-03-11T17:23:55.588562'
+modified: '2021-03-11T17:23:55.588569'
 state: active
 type: dataset
 tags:
-  - Advanced Metering Infrastructure
+  - Bulk Electric System
+  - Cip
+  - Critical Infrastructure
+  - Cybersecurity
   - Cybersecurity Framework
-  - Distributed Energy Resource
-  - Distribution Grid Management
-  - Distribution System
-  - Smart Grid
+  - Nerc
+  - Reliability
+  - Risk Management
+  - Standards
   - Subcategories
-  - Voltage Regulation
 groups: []
-csv_url: >-
-  https://data.nist.gov/od/ds/mds2-2339/NESCOR%20DGM%20Failure%20Scenarios_CSF%20Subcategories.csv
+csv_url: 'https://data.nist.gov/od/ds/mds2-2348/NIST%20CSF%20v1.1%20to%20NERC%20CIP.csv'
 json_url: ''
 layout: post
 
 ---
-This document identifies the NIST Cybersecurity Framework Subcategories that map closely to the potential mitigations within Advanced Metering Infrastructure (AMI), Distributed Energy Resources (DER), and Distribution Grid Management (DGM) threat scenarios in the NESCOR document.  This mapping is useful in determining which NIST Cybersecurity Framework Subcategories are most relevant to addressing cyber risks in voltage regulation for the distribution system and is helpful in comparing DER and traditional grid environments.
+The spreadsheets in this data set map National Institute of Standards and Technology (NIST) Cybersecurity Framework Subcategory outcomes to requirements of the North American Electric Reliability Corporation (NERC) Critical Infrastructure Protection (CIP) Standards.
