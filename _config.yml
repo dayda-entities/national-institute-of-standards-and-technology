@@ -11,7 +11,8 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'https://forensicstats.org/wp-content/uploads/2018/01/nist-big.jpg'
+profile_pic: >-
+  https://directory.dayda.org/assets/img/entities/national-institute-of-standards-and-technology.png
 favicon: /assets/img/favicon.png
 url: 'http://national-institute-of-standards-and-technology.dayda.org'
 encoding: utf-8
